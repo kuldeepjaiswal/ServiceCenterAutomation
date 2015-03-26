@@ -1,0 +1,172 @@
+﻿body
+{
+ 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	/*text-transform:uppercase;*/
+	font-weight:normal;
+	
+	
+}
+
+
+.b1
+{
+	background-color: #C7E3F8;
+}
+.bnew
+{
+	background-color: #C7E3F8;
+	vertical-align:top;
+}
+.b2
+{
+	background-color:lightskyblue;
+}
+.b6
+{
+	background-color:White;
+}
+.b3
+{
+	background-color:#f6daa1;
+	vertical-align:top;
+}
+.b4
+{
+	background-color:#f8c96a;
+}
+.b5
+{
+	background-color:#C9F5B2;
+	vertical-align:top;
+}
+
+textarea
+{   font-family: Verdana;
+	font-size :small;
+	background-color: White;
+	border-right: black 1px solid;
+	border-top: black 1px solid;
+	border-left: black 1px solid;
+	border-bottom: black 1px solid;
+}
+
+.tableMain
+{
+	text-align: left;
+	color: black;
+	background-color: lightblue;
+	font-weight:bold;
+
+}
+.tableError
+{
+	text-align: left;
+	font-weight: bold;
+	color: black;
+}
+.Date
+{
+	text-align: left;
+	font-weight:normal ;
+	color: black;
+}
+.header
+{
+	font-weight: bold;
+	color:Red;
+	background-color: lightsteelblue;
+	text-align: center;
+}
+input
+{
+	background-color: white;
+	font-family: Verdana;
+	font-size: 8pt;
+	border-left: solid 1pt black; 
+	border-right: solid 1pt black; 
+	border-top: solid 1pt black; 
+	border-bottom: solid 1pt black; 
+	
+	font-weight:bold;
+	width:80;
+	
+}
+
+
+.rightinput
+{
+	text-align: right;
+}
+.Button
+{
+	background-color: #C0C0FF;
+	font-family: Verdana;
+	font-size:9px;
+	border-left: solid 1pt black;
+	border-right: solid 1pt black;
+	border-top: solid 1pt black;
+	border-bottom: solid 1pt black;
+}
+select
+{
+	background-color: white;
+	font-family: Verdana;
+	font-size: 8pt;
+	border-color :Red;
+	border-left: solid 1pt black; 
+	border-right: solid 1pt black; 
+	border-top: solid 1pt black; 
+	border-bottom: solid 1pt black; 
+		text-transform:uppercase;
+}
+
+textarea
+{
+	background-color: white;
+	font-family: Verdana;
+	font-size: 8pt;
+	border-left: solid 1pt black; 
+	border-right: solid 1pt black; 
+	border-top: solid 1pt black; 
+	border-bottom: solid 1pt black; 
+	
+}
+.Red {
+	color: #C60909;
+}
+
+.style1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.style4 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #000000; }
+
+.style5 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.menu {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.border {
+	border: 1px solid #000000;
+}
+.border1 {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #F7F7F7;
+}
+.style9 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.style17 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; font-weight: normal; }
+.style14 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #CF7600;
+}

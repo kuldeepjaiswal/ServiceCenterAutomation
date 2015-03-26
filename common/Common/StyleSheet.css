@@ -1,0 +1,126 @@
+﻿body
+{
+	font-family: Verdana;
+	font-size: smaller;
+	background-color:  white;
+}
+.TableCenter
+{
+	background-color: navy;
+	border-right: black 1px solid;
+	border-top: black 1px solid;
+	border-left: black 1px solid;
+	border-bottom: black 1px solid;
+	text-align: center;
+	vertical-align: middle;
+	border-collapse: collapse;
+}
+.TableLeft
+{
+ border-right: black 1px solid;
+ border-top: black 1px solid;
+ border-left: black 1px solid;
+ border-bottom: black 1px solid; 
+ vertical-align :top ;
+ 
+ text-align :left ;
+ border-collapse:collapse ; 
+
+}
+input
+{
+	font-family: Verdana;
+	font-size: small;
+	background-color: white;
+	border-right: black 1px solid;
+	border-top: black 1px solid;
+	border-left: black 1px solid;
+	border-bottom: black 1px solid;
+}
+select
+{
+	font-family: Verdana;
+	font-size :small;
+	background-color: White;
+	border-right: black 1px solid;
+	border-top: black 1px solid;
+	border-left: black 1px solid;
+	border-bottom: black 1px solid;
+}
+textarea
+{   font-family: Verdana;
+	font-size :small;
+	background-color: White;
+	border-right: black 1px solid;
+	border-top: black 1px solid;
+	border-left: black 1px solid;
+	border-bottom: black 1px solid;
+}	
+.Top
+{
+	background-color: #d8bfdc;
+	font-size: small;
+	font-weight: bold;
+	font-family: Arial;
+	color: Black;
+	border-right: black 1px solid;
+	border-top: black 1px solid;
+	border-left: black 1px solid;
+	border-bottom: black 1px solid;
+}
+.Buttons
+{
+	background-color: DeepBlue;
+	font-size: small;
+	font-weight: bold;
+	font-family: Arial;
+	color: black;
+	border-right: black 1px solid;
+	border-top: black 1px solid;
+	border-left: black 1px solid;
+	border-bottom: black 1px solid;
+}
+.mand
+{
+	color:Red;
+	font-size: small ;
+	font-weight: bold;
+}
+.TopIn
+{
+	
+	font-size:small;
+	font-weight: bold;
+	font-family :Arial ;
+	color: black;
+	border-right: black 1px solid;
+	border-top: black 1px solid;
+	border-left: black 1px solid;
+	border-bottom: black 1px solid;
+}
+.Mess
+{
+  font-size :medium ;
+  font-weight :bold ;
+  color  :Red  ;
+}
+
+.1
+{
+	background-image    :url(images/prin_green.JPG);
+}
+
+.dcolor  {
+ height:40px;
+}
+
+.dtext {
+ }
+
+.dwrapper {
+ width:100px;
+ float:left;
+ padding:10px;
+ margin:0 20px 20px 0;
+ border:1px solid #ccc;
+}

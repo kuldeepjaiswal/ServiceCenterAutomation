@@ -1,0 +1,53 @@
+﻿body
+{
+	border: solid 1px #99B6BA;
+	background-attachment: fixed;
+	margin: 0px;
+	background-repeat: repeat;
+	background-position: center;
+	background-image: url('../images/bg.jpg');
+	BACKGROUND-ATTACHMENT: fixed; MARGIN: 0px; BACKGROUND-REPEAT: no-repeat; background-position:center;
+}
+.text1 {
+	font-family: tahoma;
+	font-size: 13px;
+	color: #324d62;
+	font-weight: bold;
+	border-bottom:Double 6px #99B6BA;
+	
+}
+
+.top
+{
+	color:#2A4A5F;
+	font-family: tahoma;
+	font-size:18px;
+	font-weight:bold;
+	border-bottom:solid 6px #99B6BA;
+	height:30px;
+	text-align:center;
+}
+.text2 {
+	font-family: tahoma;
+	font-size: 10px;
+	color: #324d62;
+	border-right:dashed 1px  #993333;
+	text-align:left;
+}
+.back
+{
+	font-family: tahoma;
+	font-size:13px;
+	text-align:center;
+	text-decoration:none;
+	color:#993333;
+}
+td, textarea, input, select {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #737373;
+	font-weight: normal;
+	margin-left:2px;
+	
+	
+}

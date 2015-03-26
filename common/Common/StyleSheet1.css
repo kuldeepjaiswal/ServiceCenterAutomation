@@ -1,0 +1,30 @@
+﻿
+.reporttitle
+{
+    font-size :medium;
+	font-family :Verdana ;
+	font-weight :bold ;
+	
+	
+}
+.report
+{
+  
+	font-size:small;
+	font-family :Verdana ;
+	border-right: black thin solid;
+	border-top: black thin solid;
+	border-left: black thin solid;
+	border-bottom: black thin solid;
+}
+.reportheader
+{
+  
+	border-right: black thin solid;
+	border-top: black thin solid;
+	border-left: black thin solid;
+	border-bottom: black thin solid;
+	text-align: center;
+	vertical-align: middle;
+}
+

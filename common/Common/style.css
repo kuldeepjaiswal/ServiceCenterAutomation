@@ -1,0 +1,77 @@
+.menulink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	text-decoration: none;
+}
+a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF9900;
+	text-decoration: none;
+}
+.TextRed {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.menumain {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.BorderRight {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-top-color: #FFCECE;
+	border-right-color: #FFCECE;
+	border-bottom-color: #FFCECE;
+	border-left-color: #FFCECE;
+}
+.borderTop {
+	border-top-width: 1px;
+	border-top-style: double;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #003399;
+	border-right-color: #003399;
+	border-bottom-color: #003399;
+	border-left-color: #003399;
+}
+.NewBorderR {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #003399;
+}
+.bottomlink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #003399;
+	text-decoration: none;
+}
+.Borderbottom {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #666666;
+}
+
+.Lighttext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #666666;
+	text-decoration: none;
+}
+.textmin {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+	text-decoration: none;
+}
